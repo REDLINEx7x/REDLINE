@@ -17,8 +17,8 @@
     font-family:Arial;
 ">
 
-**name:**   Your Name  
-**email:**  yourlogin@student.1337.ma  
+**name:**   Mohamed
+**email:**  moamhouc 
 **cursus:** 42cursus  
 **grade:**  Cadet  
 
