@@ -3,7 +3,7 @@
 
 <img src="YOUR_PHOTO_URL" width="120" style="border-radius: 10px;" />
 
-### **yourlogin's Profile**
+### **moamhouc's Profile**
 
 <br>
 
@@ -17,8 +17,8 @@
     font-family:Arial;
 ">
 
-**name:**   Mohamed
-**email:**  moamhouc 
+**name:**   Mohamed  
+**email:**  moamhouc      
 **cursus:** 42cursus  
 **grade:**  Cadet  
 
@@ -40,7 +40,7 @@
         font-weight:bold;
         color:#000;
     ">
-        level 5 - 34%
+        level 1 - 34%
     </div>
 </div>
 
